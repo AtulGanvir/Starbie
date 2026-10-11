@@ -18,7 +18,7 @@
 | [DHT11 sensor module](https://www.amazon.in/Robocraze-Humidity-Temperature-Sensor-module/dp/B0D95Q1LSF/ref=sr_1_5?sr=8-5) | detects and analyse and reads the temperature and humidity for starbies enviornment | 1 | $3.00 | $3.00 | [Amazon.in](https://www.amazon.in/Robocraze-Humidity-Temperature-Sensor-module/dp/B0D95Q1LSF/ref=sr_1_5?sr=8-5) |
 | [6x6 mm tactile push buttons](https://lcsc.com/product-detail/Tactile-Switches_Bossie-BX-TS-26-6665ZJ_C18078040.html) | Two physical input buttons for user interaction and control. | 2 | $0.05 | $0.10 | [LCSC](https://lcsc.com/product-detail/Tactile-Switches_Bossie-BX-TS-26-6665ZJ_C18078040.html) |
 | **Parts subtotal** | — | — | — | **$10.80** | — |
-| **Tax & shipping** | — | — | — | **$18.00** | — |
-| **Total** | — | — | — | **$28.80** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$10.80** | — |
 
-$1.20 left of the tier's funding.
+$19.20 left of the tier's funding.
