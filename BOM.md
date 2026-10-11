@@ -18,7 +18,7 @@
 | [DHT11 sensor module](https://chatgpt.com/?hints=search&q=DHT11+Humidity+And+Temperature+Sensor+Module+with+-+LED) | detects and analyse and reads the temperature and humidity for starbies enviornment | 1 | $0.75 | $0.75 | [StemVolt](https://chatgpt.com/?hints=search&q=DHT11+Humidity+And+Temperature+Sensor+Module+with+-+LED) |
 | [6x6 mm tactile push buttons](https://lcsc.com/product-detail/Tactile-Switches_Bossie-BX-TS-26-6665ZJ_C18078040.html) | Two physical input buttons for user interaction and control. | 2 | $0.05 | $0.10 | [LCSC](https://lcsc.com/product-detail/Tactile-Switches_Bossie-BX-TS-26-6665ZJ_C18078040.html) |
 | **Parts subtotal** | — | — | — | **$9.70** | — |
-| **Tax & shipping** | — | — | — | **$25.00** | — |
-| **Total** | — | — | — | **$34.70** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$9.70** | — |
 
-**$4.70 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$20.30 left of the tier's funding.
