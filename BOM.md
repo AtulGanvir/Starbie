@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [XIAOS ESP32-C3](https://www.seeedstudio.com/) | wifi , main controller & running starbie's program | 1 | $5.00 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/) |
 | **Parts subtotal** | — | — | — | **$5.00** | — |
-| **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$35.00** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$5.00** | — |
 
-**$5.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$25.00 left of the tier's funding.
