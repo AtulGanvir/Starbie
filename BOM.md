@@ -18,7 +18,7 @@
 | [DHT11 sensor module](https://www.amazon.in/Robocraze-Humidity-Temperature-Sensor-module/dp/B0D95Q1LSF/ref=sr_1_5?sr=8-5) | detects and analyse and reads the temperature and humidity for starbies enviornment | 1 | $3.00 | $3.00 | [Amazon.in](https://www.amazon.in/Robocraze-Humidity-Temperature-Sensor-module/dp/B0D95Q1LSF/ref=sr_1_5?sr=8-5) |
 | [6x6 mm tactile push buttons](https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY/ref=sr_1_8_mod_primary_new?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-8) | Two physical input buttons for user interaction and control. | 2 | $1.90 | $3.80 | [Amazon.in](https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY/ref=sr_1_8_mod_primary_new?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-8) |
 | **Parts subtotal** | — | — | — | **$14.50** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$14.50** | — |
+| **Tax & shipping** | — | — | — | **$14.00** | — |
+| **Total** | — | — | — | **$28.50** | — |
 
-$15.50 left of the tier's funding.
+$1.50 left of the tier's funding.
